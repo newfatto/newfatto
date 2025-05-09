@@ -1,6 +1,5 @@
 ## Hi there 👋
-# I am Ekaterina
-
+# I'm Ekaterina
 I'm currently learning Python development.
 
 <!--
