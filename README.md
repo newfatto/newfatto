@@ -1,6 +1,7 @@
 ## Hi there 👋
 # I'm Ekaterina
-I'm currently learning Python development.
+I'm Python developer.
+Web, Django, DRF, PostgreSQL, API etc.
 
 <!--
 **newfatto/newfatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
