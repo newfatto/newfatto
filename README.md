@@ -144,7 +144,7 @@ Python-приложение для анализа банковских опер�
 ## 📫 Контакты
 
 - Telegram: [@newfatto](https://t.me/newfatto)
-- Email: [YOUR_WORK_EMAIL@gmail.com](mailto:ekaterina.chernyshova.dev@gmail.com)
+- Email: [ekaterina.chernyshova.dev@gmail.com](mailto:ekaterina.chernyshova.dev@gmail.com)
 
 ---
 
