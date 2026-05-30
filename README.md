@@ -66,55 +66,49 @@
 
 Веб-сервис для учёта ухода за террариумными животными: питомцы, события ухода, ограничения после кормления/линьки, Telegram-напоминания и продакшн-деплой.
 
-**Что показывает:** Django, PostgreSQL, Docker, Telegram Bot API, Celery, Redis, timezone-aware логика, деплой, продуктовый подход.
+Django, PostgreSQL, Docker, Telegram Bot API, Celery, Redis, timezone-aware логика, деплой, продуктовый подход.
 
 ---
 
 ### 📚 [Learning Machine](https://github.com/newfatto/learning_machine)
 
 Backend API для LMS-платформы: курсы, уроки, пользователи, подписки и платежи.
-
-**Что показывает:** Django REST Framework, JWT, Stripe, permissions, PostgreSQL, Celery, Redis, Docker, Swagger/ReDoc.
+Django REST Framework, JWT, Stripe, permissions, PostgreSQL, Celery, Redis, Docker, Swagger/ReDoc.
 
 ---
 
 ### ✅ [Dont Skip It](https://github.com/newfatto/dont_skip_it)
 
 DRF-сервис для трекинга полезных привычек с бизнес-валидациями, публичными привычками и Telegram-напоминаниями.
-
-**Что показывает:** DRF, JWT, Celery Beat, Redis, Telegram Bot API, pagination, validators, API docs, test coverage.
+DRF, JWT, Celery Beat, Redis, Telegram Bot API, pagination, validators, API docs, test coverage.
 
 ---
 
 ### ✉️ [MrSendMan](https://github.com/newfatto/mrsendman)
 
 Django-сервис для управления email-рассылками: получатели, письма, рассылки, ручной запуск, роли, статистика и кеширование.
-
-**Что показывает:** Django, PostgreSQL, SMTP, auth flow, role-based access, templates, forms, Redis cache, Bootstrap.
+Django, PostgreSQL, SMTP, auth flow, role-based access, templates, forms, Redis cache, Bootstrap.
 
 ---
 
 ### 🧮 [Jobber](https://github.com/newfatto/jobber)
 
 Консольное Python-приложение для загрузки данных о работодателях и вакансиях из API hh.ru в PostgreSQL и аналитики через SQL-запросы.
-
-**Что показывает:** requests, PostgreSQL, SQL, psycopg2, DBManager, CLI, работа с внешним API.
+requests, PostgreSQL, SQL, psycopg2, DBManager, CLI, работа с внешним API.
 
 ---
 
 ### 💳 [Transaction Master](https://github.com/newfatto/transaction_master)
 
 Python-приложение для анализа банковских операций из Excel-файла: отчёты по расходам, кешбэку, категориям, валютам и акциям.
-
-**Что показывает:** pandas, Excel, JSON, внешние API, logging, pytest, обработка данных.
+pandas, Excel, JSON, внешние API, logging, pytest, обработка данных.
 
 ---
 
 ### 🌱 [Job Garden](https://github.com/newfatto/job_garden)
 
 Консольное Python-приложение для поиска вакансий через API hh.ru с ООП-архитектурой и JSON-хранилищем.
-
-**Что показывает:** ООП, абстрактные классы, наследование, инкапсуляция, requests, JSON, сортировка и фильтрация данных.
+ООП, абстрактные классы, наследование, инкапсуляция, requests, JSON, сортировка и фильтрация данных.
 
 ---
 
